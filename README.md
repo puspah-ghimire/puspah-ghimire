@@ -84,8 +84,8 @@ I am an undergraduate student at Kathmandu University, pursuing my bachelor degr
 
 ## GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspah-ghimire&theme=default&hide_border=false&layout=compact" height="100" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=puspah-ghimire&theme=default&hide_border=false&include_all_commits=false&count_private=false" height="100" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=puspah-ghimire&theme=default&hide_border=false" height="100" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspah-ghimire&theme=default&hide_border=false&layout=compact" height="120" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=puspah-ghimire&theme=default&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=puspah-ghimire&theme=default&hide_border=false" height="120" alt="GitHub Streak"/>
 </p>
 
