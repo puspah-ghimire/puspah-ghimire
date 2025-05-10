@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Puspa Hari Ghimire.</h1>
 
 ## ☺️About Me:
-I am an undergraduate student at Kathmandu University, pursuing my bachelor degree in Computer Engineering.
+I am an undergraduate student at [Kathmandu University](https://ku.edu.np), pursuing my bachelor degree in Computer Engineering.
 
 
 ## 🌐Socials:
