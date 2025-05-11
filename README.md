@@ -89,3 +89,9 @@ I am an undergraduate student at [Kathmandu University](https://ku.edu.np), purs
   <img src="https://nirzak-streak-stats.vercel.app/?user=puspah-ghimire&theme=default&hide_border=false" height="120" alt="GitHub Streak"/>
 </p>
 
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake.svg" />
+</picture>
