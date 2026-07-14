@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Puspa Hari Ghimire.</h1>
+<h1 align="center">Hi, I'm Puspa Hari Ghimire.</h1>
 
-## ☺️About Me:
-I am an undergraduate student at [Kathmandu University](https://ku.edu.np), pursuing my bachelor degree in Computer Engineering.
+## About Me:
+I am a Computer Engineering graduate from [Kathmandu University](https://ku.edu.np).
 
 
-## 🌐Socials:
+## Socials:
 <p align="left">  
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/puspa-hari-ghimire-176049213" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/puspaharighimire-176049213" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
   <!-- Gmail -->
