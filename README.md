@@ -84,14 +84,28 @@ I am a Computer Engineering graduate from [Kathmandu University](https://ku.edu.
 
 ## GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspah-ghimire&theme=default&hide_border=false&layout=compact" height="120" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=puspah-ghimire&theme=default&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=puspah-ghimire&theme=default&hide_border=false" height="120" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-liart-37.vercel.app/api?username=puspah-ghimire&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0" />
+    <img height="155" src="https://github-readme-stats-tau-liart-37.vercel.app/api?username=puspah-ghimire&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0284c7&text_color=1e293b" alt="Puspa's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-liart-37.vercel.app/api/top-langs/?username=puspah-ghimire&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e2e8f0" />
+    <img height="155" src="https://github-readme-stats-tau-liart-37.vercel.app/api/top-langs/?username=puspah-ghimire&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=1e293b" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=puspah-ghimire&hide_border=true&background=00000000&ring=0ea5e9&fire=f97316&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&stroke=334155" />
+    <img src="https://streak-stats.demolab.com/?user=puspah-ghimire&hide_border=true&background=00000000&ring=0ea5e9&fire=0284c7&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=0ea5e9&sideLabels=475569&dates=64748b&stroke=e2e8f0" alt="GitHub streak" />
+  </picture>
 </p>
 
 <!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/puspah-ghimire/puspah-ghimire/output/github-snake.svg" />
+  </picture>
+</p>
